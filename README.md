@@ -16,9 +16,9 @@ Density of landslides map:
 ![](imgs/Capture.PNG)
 
 ### Installation
-
+```
 pip install -r requirements.txt
-
+```
 
 ## Authors
 
